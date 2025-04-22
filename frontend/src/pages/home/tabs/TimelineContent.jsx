@@ -56,7 +56,7 @@ const TimelineContent = () => {
           <h1 className='text-2xl font-black'>1st Birthday!</h1>
           {/* description */}
           <p className='text-gray-200 dark:text-neutral-200 text-base md:text-lg font-normal mb-8'>
-            In her 2nd birthday, she ate a lot of her favorite food: Timothy hay.
+            In her first birthday, she ate a lot of her favorite food: Timothy hay.
           </p>
           <p className='text-gray-200 dark:text-neutral-200 text-tiny md:text-base font-normal mb-8'>
             She is an official free roam rabbit now! She can run around the house and do whatever she wants.
@@ -89,7 +89,7 @@ const TimelineContent = () => {
           <h1 className='text-2xl font-black'>2nd Birthday!</h1>
           {/* description */}
           <p className='text-gray-200 dark:text-neutral-200 text-base md:text-lg font-normal mb-8'>
-            In her 2nd birthday, she ate a lot of her favorite food: Timothy hay. She also tried her first apple tree
+            In her second birthday, she ate a lot of her favorite food: Timothy hay. She also tried her first apple tree
             branch for the first time as a treat.
           </p>
           {/* images */}
@@ -192,7 +192,7 @@ const TimelineContent = () => {
           </div>
           {/* description */}
           <p className='text-gray-200 dark:text-neutral-200 text-base md:text-lg font-normal mb-8'>
-            She celebrated her 4th birthday with a cake and treats made from her favorite food: Timothy hay!{" "}
+            She celebrated her fourth birthday with a cake and treats made from her favorite food: Timothy hay!{" "}
           </p>
           <p className='text-gray-200 dark:text-neutral-200 text-tiny md:text-base font-normal mb-8'>
             The cake was too hard for her liking. She got tired of biting the cake, then suddenly felt exhausted and
@@ -236,7 +236,7 @@ const TimelineContent = () => {
           </div>
           {/* description */}
           <p className='text-gray-200 dark:text-neutral-200 text-base md:text-lg font-normal mb-8'>
-            On her 5th birthday, she celebrated with her family, enjoying a quiet and cozy day together.
+            On her fifth birthday, she celebrated with her family, enjoying a quiet and cozy day together.
           </p>
           <p className='text-gray-200 dark:text-neutral-200 text-tiny md:text-base font-normal mb-8'>
             Feeling a bit restless, she decided to step outside to hide from them. hehe
